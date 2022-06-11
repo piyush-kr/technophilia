@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
 
 #hero h1{
     font-family: 'Permanent Marker', cursive;
@@ -35,7 +35,7 @@
 .front-gif img{
     width: 90px;
     filter: brightness(80%);
-   
+
 }
 
 .gif img{
@@ -202,7 +202,7 @@
 }
 
 .buy-tickets{
-    color: white; !important
+    color: white !important ;
 }
 
 #schedule{
