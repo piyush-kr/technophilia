@@ -1,12 +1,13 @@
 
 
 #hero h1{
-    font-family: 'Permanent Marker', cursive;
+    /* font-family: 'Permanent Marker', cursive; */
+    font-family: 'alien_ravageritalic';
     font-size: min(64px,10vw);
-    letter-spacing: 4px;
-    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(187,67,252,1) 72%, rgba(75,44,255,1) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    letter-spacing: 10px;
+    /* background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(187,67,252,1) 72%, rgba(75,44,255,1) 100%); */
+    /* -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
     z-index: 2;
 }
 
@@ -266,3 +267,23 @@
     bottom: 80px;
     }
 }
+
+.logo-main img{
+    width: 300px;
+    /* position: absolute; */
+    /* top: -100px;
+    left: 180px; */
+
+  
+}
+
+
+
+.attach{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+
