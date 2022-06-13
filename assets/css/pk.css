@@ -268,13 +268,24 @@
     }
 }
 
+
+
+
 .logo-main img{
     width: 300px;
     /* position: absolute; */
     /* top: -100px;
     left: 180px; */
+}
 
-  
+@media only screen and (max-width: 768px) {
+
+    .logo-main img{
+        width: 200px;
+        /* position: absolute; */
+        /* top: -100px;
+        left: 180px; */
+    }
 }
 
 
