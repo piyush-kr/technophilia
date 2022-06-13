@@ -281,10 +281,8 @@
 @media only screen and (max-width: 768px) {
 
     .logo-main img{
-        width: 250px;
-        /* position: absolute; */
-        /* top: -100px;
-        left: 180px; */
+        width: 300px;
+        
     }
 }
 
